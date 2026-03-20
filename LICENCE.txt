@@ -1,0 +1,52 @@
+PROPRIETARY SOFTWARE LICENCE
+
+Copyright (c) 2026 Simba Chitauro. All Rights Reserved.
+
+NOTICE: All information contained herein is, and remains the property of
+Simba Chitauro. The intellectual and technical concepts contained herein
+are proprietary to Simba Chitauro and may be covered by UK and international
+copyright laws and treaties.
+
+Dissemination, reproduction, modification, distribution, or use of this
+software and its source code, in whole or in part, without the express
+prior written permission of Simba Chitauro is strictly prohibited.
+
+RESTRICTIONS:
+  1. You may not copy, reproduce, or duplicate this software or any portion
+     of it in any form or by any means.
+
+  2. You may not modify, adapt, translate, reverse engineer, decompile,
+     disassemble, or create derivative works based on this software.
+
+  3. You may not distribute, sell, sublicense, rent, lease, or transfer
+     this software or any rights in it to any third party.
+
+  4. You may not use this software, in whole or in part, for any commercial
+     or non-commercial purpose without express written permission.
+
+  5. You may not remove or alter any proprietary notices, labels, or marks
+     on this software.
+
+OWNERSHIP:
+  This software is and shall remain the exclusive property of Simba Chitauro.
+  No licence, right, or interest in the software is granted to any party
+  by virtue of viewing, accessing, or interacting with this software.
+
+PERMITTED USE:
+  Access to this software is granted solely for the purpose of using the
+  DayFlow application as an end user through its official published interface.
+  Any other use requires prior written consent from Simba Chitauro.
+
+ENFORCEMENT:
+  Unauthorised use, copying, modification, or distribution of this software
+  may result in severe civil and criminal penalties under the Copyright,
+  Designs and Patents Act 1988 (UK) and equivalent international laws,
+  and will be prosecuted to the maximum extent possible under the law.
+
+CONTACT:
+  For licensing enquiries or permission requests, please contact:
+  Simba Chitauro
+  © 2026 Simba Chitauro. All Rights Reserved.
+
+  Product: DayFlow — Personal Daily Task Board
+  Created: March 2026
